@@ -1,15 +1,10 @@
-# h1
-TextureResourceCanvas
-
-
+# TextureResourceCanvas
 renderering a new texture from a canvas/container object
 
 
 **newTex:draw(bg)**
 
-
 **newTex:draw(circle)**
-
 
 **newTex:invalidate()**
 
